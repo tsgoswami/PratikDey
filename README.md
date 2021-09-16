@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to network with other developers
-- 🥅 2020 - 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 - 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Valorant and football
 
 ### Connect with me:
